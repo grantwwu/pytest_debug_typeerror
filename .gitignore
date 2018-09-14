@@ -1,0 +1,38 @@
+__pycache__/
+.DS_Store
+*.py[co]
+.pytest_cache/
+bin
+include
+lib
+*petctl_conf.json
+*.log
+
+# Virtualenv
+.Python
+pip-selfcheck.json
+
+# Compiled documentation
+docs/build
+
+## IDE
+.idea/
+.cache
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
